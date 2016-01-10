@@ -1,0 +1,1 @@
+Using OpenCV, we'll track people entering an area using various image processing techniques and then count them.
